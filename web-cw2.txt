@@ -1,4 +1,5 @@
 Name: Rohan Khandelwal
-Live URL: https://codd.cs.gsu.edu/~rkhandelwal2/WP/CW/CW2/index.html
-GitHub: https://github.com/rohankhandelwal3329/web-hw1
-Notes: All requirements completed and validated.
+Live URL: https://rohankhandelwal3329.github.io/cw2/
+GitHub: https://github.com/rohankhandelwal3329/cw2
+Live URL at codd server: https://codd.cs.gsu.edu/~rkhandelwal2/WP/CW/CW2/index.html
+Notes: All requirements completed and validated. Codd Server is unable to show some of the images and videos used so, also added GitHub pages live link. 
