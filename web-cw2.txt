@@ -1,0 +1,4 @@
+Name: Rohan Khandelwal
+Live URL: https://codd.cs.gsu.edu/~rkhandelwal2/WP/CW/CW2/index.html
+GitHub: https://github.com/rohankhandelwal3329/web-hw1
+Notes: All requirements completed and validated.
